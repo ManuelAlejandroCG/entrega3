@@ -1,5 +1,5 @@
 const express = require ("express")
-const Contenedor = require("./Contenedor");
+const Contenedor = require("./contenedor");
 
 const app = express()
 const PORT = process.env.PORT || 8080
